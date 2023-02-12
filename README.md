@@ -9,3 +9,10 @@ Play and share the code here: [playground](https://playground.lockval.com)
 Download Lockval Engine here: [downloads](https://downloads.lockval.com)
 
 discuss here: [discussions](https://github.com/lockval/lockval/discussions)
+
+---
+
+Lockval Engine base architecture:
+
+![architecture](arch.svg "base architecture")
+
