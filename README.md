@@ -8,4 +8,4 @@ Play and share the code here: [playground](https://playground.lockval.com)
 
 Download Lockval Engine here: [downloads](https://downloads.lockval.com)
 
-discuss [here](https://github.com/lockval/lockval/discussions)
+discuss here: [discussions](https://github.com/lockval/lockval/discussions)
