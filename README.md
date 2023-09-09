@@ -1,4 +1,4 @@
-# Lockval Engine is free backend engine
+# Lockval Engine is free Game backend engine
 
 See more introduction here: [website](https://lockval.com)
 
